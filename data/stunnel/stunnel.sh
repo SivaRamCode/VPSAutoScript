@@ -24,7 +24,7 @@ socket = r:TCP_NODELAY=1
 #connect = 127.0.0.1:143
 [openvpn]
 accept = 587
-connect = 127.0.0.1:443
+connect = 127.0.0.1:1986
 
 END
 
